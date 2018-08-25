@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  GoldenGoals
+
+  Created by Zaw Ye Naing on 2018/08/25.
+  
+*/
+
+"alertTitle" = "Welcome";
+"alertMessage" = "Hello, Baby";
+"okButton" = "OK";
+"cancelButton" = "Cancel";

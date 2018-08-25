@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  GoldenGoals
+
+  Created by Zaw Ye Naing on 2018/08/25.
+  
+*/
+"alertTitle" = "မင်္ဂလာပါ";
+"alertMessage" = "ဟယ်လို ဟ ဟ ပဲရမယ်";
+"okButton" = "ကောင်းပီ";
+"cancelButton" = "မကောင်းဘူး";
